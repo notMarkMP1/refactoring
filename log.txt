@@ -1,5 +1,7 @@
-dc67c35 (HEAD -> main) Task 2.1 done
-e9f2c43 (origin/main, origin/HEAD) Task 1.2
+ddb303d (HEAD -> main) Task 2.2
+f688079 (origin/main, origin/HEAD) Task 2.1 log
+dc67c35 Task 2.1 done
+e9f2c43 Task 1.2
 3420445 Task 1.1
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
